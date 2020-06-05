@@ -5,12 +5,10 @@ Hosted on pythonanywhere
 
 Class Based Views for API
 http://vinay522.pythonanywhere.com/user/
-
 http://vinay522.pythonanywhere.com/user/W012A3CDE/
 
 Generic View for API
 http://vinay522.pythonanywhere.com/generic/user/
-
 http://vinay522.pythonanywhere.com/generic/user/W012A3CDE/
 
 
@@ -28,13 +26,3 @@ python manage.py runserver
 Next, open the following URL in your browser:
 
 http://127.0.0.1:8000/user
-
-Hosted on pythonanywhere
-
-Class Based Views for API
-http://vinay522.pythonanywhere.com/user/
-http://vinay522.pythonanywhere.com/user/W012A3CDE/
-
-Generic View for API
-http://vinay522.pythonanywhere.com/generic/user/
-http://vinay522.pythonanywhere.com/generic/user/W012A3CDE/
