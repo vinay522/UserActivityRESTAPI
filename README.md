@@ -5,10 +5,12 @@ Hosted on pythonanywhere
 
 Class Based Views for API
 http://vinay522.pythonanywhere.com/user/
+
 http://vinay522.pythonanywhere.com/user/W012A3CDE/
 
 Generic View for API
 http://vinay522.pythonanywhere.com/generic/user/
+
 http://vinay522.pythonanywhere.com/generic/user/W012A3CDE/
 
 
